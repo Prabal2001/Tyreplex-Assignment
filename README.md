@@ -14,6 +14,7 @@
 - React Js
 - Bootstrap 5
 
+Deployed Link: https://tyreplexassignment.netlify.app/
 ## Getting Started
 
 To run this project locally:
