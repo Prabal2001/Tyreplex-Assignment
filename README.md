@@ -10,7 +10,7 @@
 ## Technologies Used
 
 - HTML5
-- CSS3 (including Flexbox and Grid for responsive layouts)
+- CSS3 
 - React Js
 - Bootstrap 5.2
 
