@@ -1,4 +1,4 @@
-# Tireplex Assignment
+# Tyreplex Assignment
 
 
 ## Features
