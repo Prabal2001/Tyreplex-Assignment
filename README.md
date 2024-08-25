@@ -12,7 +12,7 @@
 - HTML5
 - CSS3 (including Flexbox and Grid for responsive layouts)
 - React Js
-- Bootstrap 5
+- Bootstrap 5.2
 
 Deployed Link: https://tyreplexassignment.netlify.app/
 ## Getting Started
