@@ -1,3 +1,31 @@
+# Tireplex Assignment
+
+
+## Features
+
+- **Responsive Slider Carousel:** A rotating slider to showcase images or content.
+- **Testimonials:** Customer feedback section with smooth transitions.
+- **Footer:** A well-structured footer with contact information and social media links.
+
+## Technologies Used
+
+- HTML5
+- CSS3 (including Flexbox and Grid for responsive layouts)
+- React Js
+- Bootstrap 5
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/tireplex-assignment.git
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
