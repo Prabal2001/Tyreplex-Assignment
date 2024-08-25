@@ -1,0 +1,54 @@
+.card-custom {
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    overflow: hidden; /* Ensure no overflow from card content */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and box-shadow */
+  }
+  
+  .card-custom:hover {
+    transform: scale(1.05); /* Slightly scale up the card on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow for a lifted effect */
+  }
+  
+  .card-img-custom {
+    height: 180px; /* Adjust the image height */
+    object-fit: cover; /* Ensure the image covers the space without distortion */
+    transition: opacity 0.3s ease; /* Smooth transition for opacity */
+  }
+  
+  .card-custom:hover .card-img-custom {
+    opacity: 0.8; /* Slightly reduce image opacity on hover */
+  }
+  
+  .rating-container {
+    margin-top: auto; 
+  }
+  
+  .rating-background {
+    display: inline-block;
+    background-color: #f8f9fa; /* Light background color */
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .rating-stars {
+    color: #ffd700; /* Gold color for stars */
+    margin-right: 5px;
+  }
+  
+  .rating-text {
+    color: #333; 
+  }
+  
+  .card-footer {
+    text-align: center;
+  }
+  
+  @media (max-width: 576px) {
+    .card-img-custom {
+      height: 150px; 
+    }
+  }
+  

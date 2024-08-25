@@ -1,0 +1,51 @@
+.deals-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .deals-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .deals-card {
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-height: 400px; /* Adjusted max height to limit card height */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .deals-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Adjusted styling for images */
+  .deals-card-img {
+    width: 100%;
+    height: 200px; /* Fixed height to control image size */
+    object-fit: cover; /* Ensures the image covers the area without stretching */
+    transition: opacity 0.3s ease;
+    flex-shrink: 0; /* Prevent image from shrinking */
+  }
+  
+  .deals-card-body {
+    padding: 10px;
+    overflow-y: auto; /* Allows scrolling if content overflows */
+    flex-grow: 1; /* Ensures content area grows to fill space */
+  }
+  
+  .deals-card:hover .deals-card-img {
+    opacity: 0.8;
+  }
+  
+  @media (max-width: 576px) {
+    .deals-card-img {
+      height: 150px; /* Reduce image height on smaller screens */
+    }
+  }
+  

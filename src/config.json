@@ -1,0 +1,82 @@
+[
+  {
+    "title": "JK Tyre",
+    "text": "",
+    "img": "jk-tyre",
+    "link": "https://www.jktyre.com/",
+    "rating": 4.5,
+    "tubeless": true,
+    "model": "RNG-2024",
+    "price": "₹4,127"
+  },
+  {
+    "title": "Michelin",
+    "text": "",
+    "img": "michelin",
+    "link": "https://www.michelin.in/",
+    "rating": 4.2,
+    "tubeless": false,
+    "model": "MIC-2024",
+    "price": "₹3,299"
+  },
+  {
+    "title": "Bridgestone",
+    "text": "",
+    "img": "bridgestone",
+    "link": "https://www.bridgestone.co.in/",
+    "rating": 4.7,
+    "tubeless": true,
+    "model": "BRG-2024",
+    "price": "₹4,499"
+  },
+  {
+    "title": "MRF ",
+    "text": "",
+    "img": "mrrf",
+    "link": "https://www.mrftyres.com/",
+    "rating": 4.0,
+    "tubeless": true,
+    "model": "MRF-2024",
+    "price": "₹3,999"
+  },
+  {
+    "title": "CEAT",
+    "text": "",
+    "img": "jk-tyre",
+    "link": "https://www.ceat.com/",
+    "rating": 4.3,
+    "tubeless": false,
+    "model": "ZEN-2024",
+    "price": "₹4,200"
+  },
+  {
+    "title": "Apollo",
+    "text": "",
+    "img": "jk-tyre",
+    "link": "https://corporate.apollotyres.com/",
+    "rating": 4.6,
+    "tubeless": true,
+    "model": "TNJ-2024",
+    "price": "₹4,250"
+  },
+  {
+    "title": "TVS",
+    "text": "",
+    "img": "michelin",
+    "link": "https://tvseurogrip.com/",
+    "rating": 4.4,
+    "tubeless": true,
+    "model": "TVS-2032",
+    "price": "₹4,170"
+  },
+  {
+    "title": "Good Year",
+    "text": "",
+    "img": "jk-tyre",
+    "link": "https://www.goodyear.co.in/",
+    "rating": 4.8,
+    "tubeless": false,
+    "model": "GY-564i",
+    "price": "₹4,350"
+  }
+]
